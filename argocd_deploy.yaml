@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/RanganathanDevops/kubernetes.git
-    targetRevision: HEAD
+    targetRevision: argocd_testbranch
     path: deploymentfiles
   destination: 
     server: https://kubernetes.default.svc
