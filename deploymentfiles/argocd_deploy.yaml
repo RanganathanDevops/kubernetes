@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/RanganathanDevops/kubernetes.git
     targetRevision: HEAD
-    path: dev
+    path: deploymentfiles
   destination: 
     server: https://kubernetes.default.svc
     namespace: bold-services
